@@ -1,4 +1,5 @@
-#Problem 1:
+# Problem 1
+
 This is my answer to the following problem from Google Code Jam 2019. This competition was timed.
 
 Problem:
